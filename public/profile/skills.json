@@ -8,11 +8,8 @@
                 {
                     "icon": "images/skills/java.png",
                     "title": "Java"
-                },
-                {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
-                },
+                }
+               
                 {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
@@ -32,15 +29,12 @@
                 {
                     "icon": "images/skills/android_new.png",
                     "title": "Android"
-                },
+                }
                 {
                     "icon": "images/skills/react.png",
                     "title": "React"
-                },
-                {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
                 }
+               
             ]
         },
         {
