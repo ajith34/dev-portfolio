@@ -1,15 +1,15 @@
 {
     "social": [
         {
-            "network" : "linkedin",
+            "network": "linkedin",
             "href": "https://www.linkedin.com/in/ajith-g-896b50283/"
         },
         {
-            "network" : "github",
+            "network": "github",
             "href": "https://github.com/ajith34/dev-portfolio.git"
         },
         {
-            "network" : "email",
+            "network": "email",
             "href": "vja3434@gmail.com"
         }
     ]
